@@ -1,6 +1,6 @@
 {
   "name": "@aumirza/tailwind-pseudo-scrollbar",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple Tailwind plugin for scrollbar pseudo selector for webkit.",
   "author": "Ahmadullah Mirza <mirzaahmad9028@gmail.com>",
   "main": "src/index.js",
