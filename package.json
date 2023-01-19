@@ -4,10 +4,23 @@
   "description": "A simple Tailwind plugin for scrollbar pseudo selector for webkit.",
   "author": "Ahmadullah Mirza <mirzaahmad9028@gmail.com>",
   "main": "src/index.js",
-  "repository": "https://github.com/aumirza/tailwind-pseudo-scrollbar",
   "homepage": "https://github.com/aumirza/tailwind-pseudo-scrollbar",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:aumirza/tailwind-pseudo-scrollbar.git"
+  },
   "license": "MIT",
   "private": false,
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "pseudo",
+    "scrollbar",
+    "webkit"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/aumirza"
+  },
   "scripts": {
     "lint": "eslint src",
     "test": "echo 'Error: no test specified' "
