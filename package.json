@@ -18,6 +18,9 @@
     "scrollbar",
     "webkit"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "lint": "eslint src",
     "test": "echo 'Error: no test specified' "
