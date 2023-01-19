@@ -19,7 +19,7 @@
     "webkit"
   ],
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/aumirza"
+    "registry": "https://npm.pkg.github.com/"
   },
   "scripts": {
     "lint": "eslint src",
