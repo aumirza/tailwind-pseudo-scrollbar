@@ -4,16 +4,17 @@ Customize your scrollbar from tailwind directly.
 
 ## Installation
 
-    yarn add -D tailwind-pseudo-scrollbar
+    yarn add -D @aumirza/tailwind-pseudo-scrollbar
+
 or
 
-    npm install --save-dev tailwind-pseudo-scrollbar
+    npm install --save-dev @aumirza/tailwind-pseudo-scrollbar
 
 Add plugin in your Tailwind config file.
 
     plugins: [
         // ...
-        require('tailwind-pseudo-scrollbar'),
+        require('@aumirza/tailwind-pseudo-scrollbar'),
     ],
 
 ## Usage
